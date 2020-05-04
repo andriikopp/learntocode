@@ -54,7 +54,7 @@
             <div class="card-header">Getting Started</div>
             <div class="card-body">
                 <h5 class="card-title">Hello World!</h5>
-                <p class="card-text">Install editor or IDE for your programming language and create a program that prints <code>"Hello world"</code></p>
+                <p class="card-text">Install an editor or IDE for your programming language and create a program that prints <code>"Hello world"</code></p>
             </div>
         </div>
 
@@ -184,7 +184,7 @@
         <div class="card bg-light mb-3">
             <div class="card-header">Functions</div>
             <div class="card-body">
-                <h5 class="card-title">Create a function to generate an arrays of random numbers and another one to print arrays</h5>
+                <h5 class="card-title">Create a function to generate an array of random numbers and another one to print arrays</h5>
                 <p class="card-text">e.g., <code>randarr(size, min, max)</code> and <code>printarr(array, length)</code></p>
             </div>
         </div>
