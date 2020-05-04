@@ -54,7 +54,7 @@
             <div class="card-header">Getting Started</div>
             <div class="card-body">
                 <h5 class="card-title">Hello World!</h5>
-                <p class="card-text">Install editor of IDE for your programming language and create a program that prints <code>"Hello world"</code></p>
+                <p class="card-text">Install editor or IDE for your programming language and create a program that prints <code>"Hello world"</code></p>
             </div>
         </div>
 
