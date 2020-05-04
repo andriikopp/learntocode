@@ -34,7 +34,7 @@
         <a class="btn btn-primary btn-lg" href="#practice" role="button">Practice programming</a>
     </div>
 
-    <div class="container" style="margin-bottom: 1%;">
+    <div class="container" style="margin-bottom: 2%;">
         <div class="row justify-content-md-center">
             <div class="col-md-auto">
                 <a href="https://github.com/andriikopp/learntocode">
