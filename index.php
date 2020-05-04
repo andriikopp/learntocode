@@ -26,7 +26,7 @@
 </head>
 
 <body style="margin: 1%;">
-    <div class="jumbotron" style="margin-bottom: 3%;">
+    <div class="jumbotron">
         <h1 class="display-4"><b>#learntocode</b> — Coding Tasks for Beginners</h1>
         <p class="lead">Set of simple programming problems for absolute beginners who can practice coding skills by solving these challenges</p>
         <hr class="my-4">
