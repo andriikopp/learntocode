@@ -37,7 +37,7 @@
     <div class="container" style="margin-bottom: 1%;">
         <div class="row justify-content-md-center">
             <div class="col-md-auto">
-                <a href="">
+                <a href="https://github.com/andriikopp/learntocode">
                     <img src="GitHub-Mark-64px.png" alt="GitHub Mark" />
                 </a>
             </div>
