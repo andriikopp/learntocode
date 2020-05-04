@@ -248,7 +248,7 @@
         </div>
     </div>
 
-    <div class="jumbotron">
+    <div class="jumbotron" style="margin-bottom: -3%;">
         <p class="lead">
             <a href="mailto:7960954@gmail.com">Contact us</a> and subscribe to our <a href="https://twitter.com/learntocode_cs">Twitter</a> and <a href="https://www.instagram.com/learntocode.cs">Instagram</a>
         </p>
