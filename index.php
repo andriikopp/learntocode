@@ -26,7 +26,7 @@
 </head>
 
 <body style="margin: 1%;">
-    <div class="jumbotron" style="margin-bottom: 1%;">
+    <div class="jumbotron" style="margin-bottom: 3%;">
         <h1 class="display-4"><b>#learntocode</b> — Coding Tasks for Beginners</h1>
         <p class="lead">Set of simple programming problems for absolute beginners who can practice coding skills by solving these challenges</p>
         <hr class="my-4">
@@ -34,7 +34,7 @@
         <a class="btn btn-primary btn-lg" href="#practice" role="button">Practice programming</a>
     </div>
 
-    <div class="container" style="margin-bottom: 3%;">
+    <div class="container" style="margin-bottom: 1%;">
         <div class="row justify-content-md-center">
             <div class="col-md-auto">
                 <a href="https://github.com/andriikopp/learntocode">
