@@ -26,6 +26,12 @@
 </head>
 
 <body style="margin: 1%;">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <a href="problems.html"><img src="ukr.png" /></a>
+        </ol>
+    </nav>
+
     <div class="jumbotron">
         <h1 class="display-4"><b>#learntocode</b> — Coding Tasks for Beginners</h1>
         <p class="lead">Set of simple programming problems for absolute beginners who can practice coding skills by solving these challenges</p>
@@ -206,7 +212,7 @@
                 <p class="card-text">generate a collection of 100 students, each of which has an average <code>score</code> (integers in the range 60...100) and a <code>year</code> (between 2000 and 2020) of enrollment</p>
                 <p class="card-text">find <code>min</code>, <code>max</code>, and <code>average</code> scores in the generated dataset</p>
                 <p class="card-text">find students with highest/lowest average score that were enrolled in the given period of time (between years <code>x</code> and <code>y</code>)</p>
-                <p class="card-text">find students with the given <code>year </code>of enrollment</p>
+                <p class="card-text">find students with the given <code>year</code> of enrollment</p>
                 <p class="card-text">find so called "average students", which average score is in <code>z</code> interval around the average score</p>
             </div>
         </div>
