@@ -43,7 +43,7 @@
     <div class="container" style="margin-bottom: 1%;">
         <div class="row justify-content-md-center">
             <div class="col-md-auto">
-                <a href="https://github.com/andriikopp/learntocode">
+                <a href="https://github.com/learntocode-cs/learntocode">
                     <img src="GitHub-Mark-64px.png" alt="GitHub Mark" />
                 </a>
             </div>
