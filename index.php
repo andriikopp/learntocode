@@ -43,11 +43,11 @@
     <div class="media" style="margin-bottom: 2%;">
         <img src="eth.png" class="mr-3" alt="ethereum-blockchain" height="150">
         <div class="media-body">
-            <h5 class="mt-0"><a target="_blank" href="https://rinkeby.etherscan.io/address/0x997f4580886e0ac188668f25e30d9151059d0ae9#readContract">#LEARNTOCODE Decentralized Application</a></h5>
-            We have launched the decentralized application to get access to programming problems stored on Ethereum Blockchain. Therefore, our refined set of coding tasks does not depend on any hosting provider or application platform. It makes knowledge accessible
+            <h5 class="mt-0"><a target="_blank" href="https://kodxlern.github.io/">#LEARNTOCODE Decentralized Application</a></h5>
+            We have launched <b>KODXLERN</b> decentralized application to get access to programming problems stored on Ethereum Blockchain. Therefore, our refined set of coding tasks does not depend on any hosting provider or application platform. It makes knowledge accessible
             by anyone without possibility to hack or alter our resource.
-            <br/>Now it operates on Ethereum Rinkeby testnet, but we have plans to move it to the mainnet soon.
-            <br/>Learn <a target="_blank" href="https://github.com/learntocodecs/learntocode-smartcontract#how-to-use">how to use</a> it and get started with our <a target="_blank" href="https://rinkeby.etherscan.io/address/0x997f4580886e0ac188668f25e30d9151059d0ae9#readContract">decentralized blockchain-based learning service</a>            or integrate it to your DApp.
+            <br />Now it operates on Ethereum Rinkeby testnet, but we have plans to move it to the mainnet soon.
+            <br />Learn <a target="_blank" href="https://github.com/learntocodecs/learntocode-smartcontract#how-to-use">how to use</a> its <a target="_blank" href="https://rinkeby.etherscan.io/address/0x997f4580886e0ac188668f25e30d9151059d0ae9#readContract">smart contract</a> and feel free to integrate it to your educational DApp.
         </div>
     </div>
 
