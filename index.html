@@ -37,14 +37,22 @@
     <div class="container" style="margin-bottom: 1%;">
         <div class="row justify-content-md-center">
             <div class="col-md-auto">
-                <a target="_blank" href="https://github.com/learntocode-cs/learntocode">
-                    <img src="GitHub-Mark-64px.png" alt="GitHub Mark" />
+                <a target="_blank" href="void:javascript(0);">
+                    <img src="visitors.png" alt="Visitors" height="100" />
                 </a>
             </div>
         </div>
         <div class="row justify-content-md-center" style="margin-top: 0.5%;">
             <div class="col-md-auto">
-                <h4>Suggest updates or fixes — make Pull Requests on our GitHub repository</h4>
+                <?php
+                $file = 'visitors.count';
+                $visitors = intval(file_get_contents($file));
+                $visitors++;
+                file_put_contents($file, $visitors);
+                $visitors = number_format($visitors, 0, '.', ',');
+                ?>
+
+                <h4><?= $visitors  ?> visitors</h4>
             </div>
         </div>
     </div>
@@ -244,6 +252,21 @@
                 <p class="card-text">Create at least 5 objects of such class and put them into an array</p>
                 <p class="card-text">Write the array into a file (create function <code>store_persons(file_name, persons_array)</code> or similar)</p>
                 <p class="card-text">Restore the array from a file (create function <code>read_persons(file_name)</code> or similar)</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="margin-bottom: 1%;">
+        <div class="row justify-content-md-center">
+            <div class="col-md-auto">
+                <a target="_blank" href="https://github.com/learntocode-cs/learntocode">
+                    <img src="GitHub-Mark-64px.png" alt="GitHub Mark" />
+                </a>
+            </div>
+        </div>
+        <div class="row justify-content-md-center" style="margin-top: 0.5%;">
+            <div class="col-md-auto">
+                <h4>Suggest updates or fixes — make Pull Requests on our GitHub repository</h4>
             </div>
         </div>
     </div>
