@@ -34,29 +34,6 @@
         <a class="btn btn-primary btn-lg" href="#practice" role="button">Practice programming</a>
     </div>
 
-    <div class="container" style="margin-bottom: 1%;">
-        <div class="row justify-content-md-center">
-            <div class="col-md-auto">
-                <a target="_blank" href="void:javascript(0);">
-                    <img src="visitors.png" alt="Visitors" height="100" />
-                </a>
-            </div>
-        </div>
-        <div class="row justify-content-md-center" style="margin-top: 0.5%;">
-            <div class="col-md-auto">
-                <?php
-                $file = 'visitors.count';
-                $visitors = intval(file_get_contents($file));
-                $visitors++;
-                file_put_contents($file, $visitors);
-                $visitors = number_format($visitors, 0, '.', ',');
-                ?>
-
-                <h4><?= $visitors  ?> visitors</h4>
-            </div>
-        </div>
-    </div>
-
     <div class="card-columns" id="practice">
         <div class="card bg-light mb-3">
             <div class="card-header">Getting Started</div>
