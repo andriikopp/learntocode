@@ -249,10 +249,6 @@
     </div>
 
     <div class="jumbotron" style="margin-bottom: -3%;">
-        <p class="lead">
-            <a href="mailto:7960954@gmail.com">Contact us</a> and subscribe to our <a href="https://twitter.com/learntocode_cs">Twitter</a> and <a href="https://www.instagram.com/learntocode.cs">Instagram</a>
-        </p>
-        <hr class="my-4">
         <p>
             <a href="https://creativecommons.org/licenses/by/3.0/legalcode">Creative Commons Attribution License <b>(CC-BY)</b></a>
             <script>
