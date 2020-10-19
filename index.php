@@ -233,21 +233,6 @@
         </div>
     </div>
 
-    <div class="container" style="margin-bottom: 1%;">
-        <div class="row justify-content-md-center">
-            <div class="col-md-auto">
-                <a target="_blank" href="https://github.com/learntocode-cs/learntocode">
-                    <img src="GitHub-Mark-64px.png" alt="GitHub Mark" />
-                </a>
-            </div>
-        </div>
-        <div class="row justify-content-md-center" style="margin-top: 0.5%;">
-            <div class="col-md-auto">
-                <h4>Suggest updates or fixes — make Pull Requests on our GitHub repository</h4>
-            </div>
-        </div>
-    </div>
-
     <div class="jumbotron" style="margin-bottom: -3%;">
         <p>
             <a href="https://creativecommons.org/licenses/by/3.0/legalcode">Creative Commons Attribution License <b>(CC-BY)</b></a>
